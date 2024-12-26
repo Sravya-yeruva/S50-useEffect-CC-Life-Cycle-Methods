@@ -1,0 +1,28 @@
+.App {
+  text-align: left;
+}
+
+.mainH{
+  color:green;
+  font-weight:bold;
+  text-decoration: underline;
+}
+button{
+  font-size:18px;
+  padding:8px;
+  border-radius:10px;
+  width:200px;
+  border:2px solid blue;
+  margin:5px;
+}
+.container{
+  height:400px;
+  width:450px;
+  border-radius:5px;
+  border:2px solid black;
+  background-color:lightcoral;
+  margin:10px;
+  text-align:center;
+  
+  
+}
